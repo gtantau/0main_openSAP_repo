@@ -1,2 +1,2 @@
 # 0main_openSAP_repo
-Main repository
+Main repository for [openSAP](https://opensap.com) Git demos
